@@ -2,7 +2,7 @@
 
 Code from [Parres-Gold et al. *Cell* **2025**](https://doi.org/10.1016/j.cell.2025.01.036) to analyze the computational capabilities of competitive protein dimerization networks.
 
-All code, raw data, and processed data is available on [CaltechDATA](https://doi.org/10.22002/1gffr-va537)
+All code, raw data, and processed data is available on [CaltechDATA](https://doi.org/10.22002/1gffr-va537).
 
 ## Utilities
 `dimer_network_utilities.py` provides functions that are used by other notebooks in the repository.
